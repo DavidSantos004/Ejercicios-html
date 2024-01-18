@@ -1,7 +1,23 @@
 *{
     margin:0;
-    
+    padding: 0;
 }
-.titulos{
+#conteiner{
+    border:  red 10px solid; 
+    width: 1000px;
+    height: 800px;
+
+    margin: 1em auto;
+}
+#header{
+    border: blue 10px solid;
+    width: 980px;
+    height: 200px;
+}
+#containerLogo{
+    border: green 10px solid;
+    margin: 0.5em;
+    width: 200px;
+    height: 160px;
 
 }
